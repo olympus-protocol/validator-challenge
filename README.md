@@ -1,5 +1,6 @@
 # Polis Blockchain | Validator Tracker Challenge
 
+
 Luis Correa & Hans Looman
 
 Miami Blockchain Week Hackathon | January 29th 2021
@@ -47,5 +48,10 @@ You can find useful documentation and information on Olympus through these links
 
 * [Olympus Block Explorer](https://explorer.oly.tech)
 * [Olympus Indexer](https://indexer.oly.tech/): A GraphQL block indexer from where you will be able to query data.
-* 
+* To request coins from our faucet please consider joining our Discord Community, the faucet bot is on the #olympus-request-coins channel.
+
+
+## Social Media
+* Discord
+* Twitter
 
