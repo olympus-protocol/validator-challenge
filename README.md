@@ -25,13 +25,11 @@ This creates the need for any sort of tool that:
 * Allows to track multiple validators linked to an account.
 * Allows to start or exit validators.
 
-Any tool created is fair game as long as it satisfies one or more of these requirements. We were thinking of a telegram or discord bot, a dashboard website, but any idea you may have is fair game!
-
-
+Any tool created is fair game as long as it satisfies one or more of these requirements. We were thinking of a telegram or discord bot, a dashboard website, but any idea you may have or wish to improve it is welcome!
 
 ### Validator Status
 
-
+The Indexer will be updated in a few weeks to shown ENUMS instead of integer values. In the meantime here's a table that clarifies the status for a validator and its meaning.
 
 
 
@@ -45,6 +43,9 @@ You can find useful documentation and information on Olympus through these links
 
 * [Olympus Docs](https://doc.oly.tech/documentation/first-steps/features)
 
-* [Ogen (Golang Implementation)](https://github.com/olympus-protocol/ogen)
+* [Ogen (Golang Implementation)](https://github.com/olympus-protocol/ogen): In case you want to run your own node and validators. Supports Docker containerization.
 
 * [Olympus Block Explorer](https://explorer.oly.tech)
+* [Olympus Indexer](https://indexer.oly.tech/): A GraphQL block indexer from where you will be able to query data.
+* 
+
