@@ -1,6 +1,3 @@
-![Polis](https://github.com/grupokindynos/kindynos-branding/blob/master/polis/polis-logo-full.png)
-![PolisPay](https://github.com/grupokindynos/kindynos-branding/blob/master/polispay/polispay-logo-full.png)
-![BlockchainCenter](https://static.wixstatic.com/media/91930a_97d9320c44074757b35d91c36a376532~mv2.png/v1/fill/w_196,h_286,al_c,q_85,usm_0.66_1.00_0.01/91930a_97d9320c44074757b35d91c36a376532~mv2.webp)
 # Polis Blockchain | Validator Tracker Challenge
 
 Luis Correa & Hans Looman
@@ -74,3 +71,7 @@ You can find useful documentation and information on Olympus through these links
 * [Discord](https://discord.gg/aNjrKhp)
 * [Twitter](https://twitter.com/polisblockchain?lang=en)
 * [Telegram](https://t.me/PolisPayOfficial)
+
+![Polis](https://github.com/grupokindynos/kindynos-branding/blob/master/polis/polis-logo-full.png)
+![PolisPay](https://github.com/grupokindynos/kindynos-branding/blob/master/polispay/polispay-logo-full.png)
+![BlockchainCenter](https://static.wixstatic.com/media/91930a_97d9320c44074757b35d91c36a376532~mv2.png/v1/fill/w_196,h_286,al_c,q_85,usm_0.66_1.00_0.01/91930a_97d9320c44074757b35d91c36a376532~mv2.webp)
