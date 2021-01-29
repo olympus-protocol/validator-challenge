@@ -32,11 +32,13 @@ Any tool created is fair game as long as it satisfies one or more of these requi
 
 The Indexer will be updated in a few weeks to shown ENUMS instead of integer values. In the meantime here's a table that clarifies the status for a validator and its meaning.
 
-
-
-## Submissions
-
-
+| Value | Status                     | Description                                                     |
+|-------|----------------------------|-----------------------------------------------------------------|
+| 0     | StatusStarting             | Validator is created and waiting to join.                       |
+| 1     | StatusActive               | Validator is currently in the queue.                            |
+| 2     | StatusActivePendingExit    | Validator is queued to be removed from the active set.          |
+| 3     | StatusExitedWithPenalty    | Validator is exited due to a slashing condition being violated. |
+| 4     | StatusExitedWithoutPenalty | Validator is exited due to a drop below the ejection balance.   |
 
 ## Resources
 
@@ -52,6 +54,6 @@ You can find useful documentation and information on Olympus through these links
 
 
 ## Social Media
-* Discord
-* Twitter
+* [Discord](https://discord.gg/aNjrKhp)
+* [Twitter](https://twitter.com/polisblockchain?lang=en)
 
