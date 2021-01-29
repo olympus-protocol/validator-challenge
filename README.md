@@ -59,6 +59,7 @@ You can find useful documentation and information on Olympus through these links
 * [Olympus Block Explorer](https://explorer.oly.tech)
 * [Obol Wallet](https://chrome.google.com/webstore/detail/obol-olympus-wallet/hjhlelhnaphmlfadnaankgdlhdnpomgo?hl=es): Light wallet in the form of a browser extension.
 * [Olympus Indexer](https://indexer.oly.tech/): A GraphQL block indexer from where you will be able to query data.
+* [GraphQL Examples](https://graphqlbin.com/v2/XYkvIB)
 * To request coins from our faucet please consider joining our [Discord Community](https://discord.gg/aNjrKhp), the faucet bot is on the #olympus-request-coins channel.
 
 ```shell
