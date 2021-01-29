@@ -17,7 +17,7 @@ The **Olympus Protocol** is the replicated state machine (or blockchain) that us
 
 However, if a validator fails to contribute to the consensus for any reason (if it votes for two blocks on the same slot, or is not online at the time of voting) it will get **slashed**. Slashing means that the balance locked for the validator, plus the rewards it may have received with start to reduce gradually and incrementally until the validator is straightened again. Hence the need of a monitoring tool for validator tracking.
 
-To prevent getting slashed, it is recommended to **EXIT a VALIDATOR** if the owners plans to enter maintenance on a server
+To prevent getting slashed, it is recommended to **EXIT a VALIDATOR** if the owner plans to enter maintenance on a server, or whishes to withdraw his assets.
 
 This creates the need for any sort of tool that:
 
