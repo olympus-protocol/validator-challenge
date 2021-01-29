@@ -1,5 +1,7 @@
+![Polis](https://github.com/grupokindynos/kindynos-branding/blob/master/polis/polis-logo-full.png)
+![PolisPay](https://github.com/grupokindynos/kindynos-branding/blob/master/polispay/polispay-logo-full.png)
+![BlockchainCenter](https://static.wixstatic.com/media/91930a_97d9320c44074757b35d91c36a376532~mv2.png/v1/fill/w_196,h_286,al_c,q_85,usm_0.66_1.00_0.01/91930a_97d9320c44074757b35d91c36a376532~mv2.webp)
 # Polis Blockchain | Validator Tracker Challenge
-
 
 Luis Correa & Hans Looman
 
@@ -56,15 +58,19 @@ ogen help
 You can find useful documentation and information on Olympus through these links.
 
 * [Olympus Docs](https://doc.oly.tech/documentation/first-steps/features)
-
 * [Ogen (Golang Implementation)](https://github.com/olympus-protocol/ogen): In case you want to run your own node and validators. Supports Docker containerization.
-
 * [Olympus Block Explorer](https://explorer.oly.tech)
+* [Obol Wallet](https://chrome.google.com/webstore/detail/obol-olympus-wallet/hjhlelhnaphmlfadnaankgdlhdnpomgo?hl=es): Light wallet in the form of a browser extension.
 * [Olympus Indexer](https://indexer.oly.tech/): A GraphQL block indexer from where you will be able to query data.
 * To request coins from our faucet please consider joining our [Discord Community](https://discord.gg/aNjrKhp), the faucet bot is on the #olympus-request-coins channel.
 
+```shell
+# to request coins introduce this command.
+!tpolis tlpubGENERATEDFROMYOURWALLET
+```
 
-## Social Media
+
+## Join our community!
 * [Discord](https://discord.gg/aNjrKhp)
 * [Twitter](https://twitter.com/polisblockchain?lang=en)
-
+* [Telegram](https://t.me/PolisPayOfficial)
