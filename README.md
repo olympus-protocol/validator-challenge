@@ -9,7 +9,7 @@ Miami Blockchain Week Hackathon | January 29th 2021
 
 ## Validator Tracker
 
-The **Olympus Protocol** is the replicated state machine (or blockchain) that uses a peer-to-peer communication layer to interact between nodes and transfer value assets over a trustless environment.
+The **Olympus Protocol** is the replicated state machine (or blockchain) that uses a peer-to-peer communication layer to interact between nodes and transfer value assets over a trustless environment. **[Polis](https://coinmarketcap.com/es/currencies/polis/)** is the main asset or token used on top of this protocol.
 
 [Ogen](https://github.com/olympus-protocol/ogen) is the main implementation in [golang](https://golang.org/) of this protocol.
 
