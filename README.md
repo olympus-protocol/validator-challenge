@@ -40,6 +40,17 @@ The Indexer will be updated in a few weeks to shown ENUMS instead of integer val
 | 3     | StatusExitedWithPenalty    | Validator is exited due to a slashing condition being violated. |
 | 4     | StatusExitedWithoutPenalty | Validator is exited due to a drop below the ejection balance.   |
 
+## Ogen Startup
+
+```shell
+ogen --rpc_wallet --rpc_proxy --rpc_keystore --dashboard
+```
+This will expose the RPC console commands for the wallet, keystore over https, as well as exposing a dashboard on port 8080.
+For more information on commands and flags do
+
+```shell
+ogen help
+```
 ## Resources
 
 You can find useful documentation and information on Olympus through these links.
@@ -50,7 +61,7 @@ You can find useful documentation and information on Olympus through these links
 
 * [Olympus Block Explorer](https://explorer.oly.tech)
 * [Olympus Indexer](https://indexer.oly.tech/): A GraphQL block indexer from where you will be able to query data.
-* To request coins from our faucet please consider joining our Discord Community, the faucet bot is on the #olympus-request-coins channel.
+* To request coins from our faucet please consider joining our [Discord Community](https://discord.gg/aNjrKhp), the faucet bot is on the #olympus-request-coins channel.
 
 
 ## Social Media
