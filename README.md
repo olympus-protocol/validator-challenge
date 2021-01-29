@@ -45,7 +45,7 @@ The Indexer will be updated in a few weeks to shown ENUMS instead of integer val
 ogen --rpc_wallet --rpc_proxy --rpc_keystore --dashboard
 ```
 This will expose the RPC console commands for the wallet, keystore over https, as well as exposing a dashboard on port 8080.
-For more information on commands and flags do
+For more information on commands and flags do, run the help command.
 
 ```shell
 ogen help
